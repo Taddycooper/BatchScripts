@@ -6,5 +6,5 @@ pause
 color 05
 echo look the colors changed
 pause
-start google.com
+start https://www.google.com
 pause

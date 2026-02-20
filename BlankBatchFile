@@ -1,0 +1,7 @@
+@echo off
+color c
+title Blank Batch File
+:a
+echo ROOTBEER
+pause
+goto a
